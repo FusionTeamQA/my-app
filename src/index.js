@@ -1,8 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+// import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+const a = localStorage.getItem('theme');
+
+if (a === 'light') {
+  import('./themes.light.css')
+} else {
+  import('./themes.dark.css')
+}
 
 ReactDOM.render(
   <React.StrictMode>

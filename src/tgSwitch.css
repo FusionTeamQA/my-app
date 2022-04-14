@@ -1,0 +1,25 @@
+.tgSwitch {
+	height: 36px;
+	width: 75px;
+	background: #d8d9db;
+	padding: 3px;
+	border-radius: 20px;
+	transition: .4s;
+	cursor: pointer;
+}
+
+.tgSwitch.active {
+	background: #4bd865;
+}
+
+.tgSwitch > .slider {
+	background: #FFF;
+	border-radius: 50%;
+	width: 36px;
+	height: 36px;
+	transition: .4s;
+}
+
+.tgSwitch > input {
+	display: none;
+}
