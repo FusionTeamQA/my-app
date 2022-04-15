@@ -30,22 +30,21 @@ function EXPERIENCE() {
                         <div class="o-grid">
                             <div class="o-grid__col-md-5">
                                 <div class="c-work__timeframe">
-                                    2015 – Present
+                                    2021 – Present
                                 </div>
                                 <h3 class="c-work__heading">
-                                    Unicorn Incubator Inc.
-                                </h3>
+                                    Fusion-tech </h3>
                                 <h4 class="c-work__title">
-                                    Senior Interface Designer
+                                    QA Engineer
                                 </h4>
                                 <div class="c-work__location">
-                                    Portland, OR
+                                    Taganrog, RU
                                 </div>
                             </div>
                             <div class="o-grid__col-md-7">
                                 <p>
-                                    Consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aaliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.
-                                </p>
+                                    nothing.
+                                                                    </p>
                             </div>
                         </div>
                     </div>
@@ -57,22 +56,27 @@ function EXPERIENCE() {
                         <div class="o-grid">
                             <div class="o-grid__col-md-5">
                                 <div class="c-work__timeframe">
-                                    2013 – 2015
+                                    2019 – 2021
                                 </div>
                                 <h3 class="c-work__heading">
-                                    California Design Bureau
+                                    Newizze
                                 </h3>
                                 <h4 class="c-work__title">
-                                    Creative Director
+                                    QA Engineer
                                 </h4>
                                 <div class="c-work__location">
-                                    Cupertino, CA
+                                    Taganrog, RU
                                 </div>
                             </div>
                             <div class="o-grid__col-md-7">
-                                <p>
-                                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aaliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis.
-                                </p>
+                                <p>Development of test scenarios</p>
+                                <p>Error detection</p>
+                                <p>Description of shortcomings and errors, setting tasks and monitoring of implementation</p>
+                                <p>Checking completed tasks</p>
+                                <p>Optimization of development and testing processes</p>
+                                <p>Maintaining documentation</p>
+                                <p>Java Testing Automation</p>
+                                <p>Creating Allure Reports</p>
                             </div>
                         </div>
                     </div>
@@ -84,22 +88,21 @@ function EXPERIENCE() {
                         <div class="o-grid">
                             <div class="o-grid__col-md-5">
                                 <div class="c-work__timeframe">
-                                    2010 – 2013
+                                    2015 – 2019
                                 </div>
                                 <h3 class="c-work__heading">
-                                    Dreamland Creative
-                                </h3>
+                                    BU "District Clinical Hospital"</h3>
                                 <h4 class="c-work__title">
-                                    Front-end Designer
+                                    Software Engineer
                                 </h4>
                                 <div class="c-work__location">
-                                    New York, NY
+                                    Khanty-Mansyisk, RU
                                 </div>
                             </div>
                             <div class="o-grid__col-md-7">
-                                <p>
-                                    Fusce lacinia arcu et nulla. Nulla vitae mauris non felis mollis faucibus. Phasellus hendrerit. Pellentesque aaliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh.
-                                </p>
+                            <p>Administration and maintenance of a medical information system</p>
+                            <p>Installing and configuring CRM</p>
+                            <p>Manual testing and description of detected errors</p>
                             </div>
                         </div>
                     </div>

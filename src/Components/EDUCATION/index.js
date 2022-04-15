@@ -32,89 +32,31 @@ function EDUCATION() {
                                             <div class="o-grid">
                                                 <div class="o-grid__col-md-5">
                                                     <div class="c-work__timeframe">
-                                                        2008 – 2010
+                                                        2015 – 2019
                                                     </div>
                                                     <h3 class="c-work__heading">
-                                                        Webster Tech University
-                                                    </h3>
+                                                    <p>Tomsk State University of Control Systems and Radioelectronics</p>                                                 </h3>
                                                     <h4 class="c-work__title">
-                                                        Master of Computer Science
+                                                    <p>Computer science and engineering</p>
                                                     </h4>
                                                     <div class="c-work__location">
-                                                        Miami, FL
+                                                        Tomsk, RU
                                                     </div>
                                                 </div>
                                                 <div class="o-grid__col-md-7">
-                                                    <p>
-                                                        Consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aaliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh.
-                                                    </p>
+                                                    <br></br>
+                                                    <br></br>
+                                                    <p>Computer-aided design systems</p>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-
-                                    <div class="c-timeline__item">
-                                        <div class="c-timeline__point  t-timeline__point  t-primary-bg"></div>
-                                        <div class="o-content">
-                                            <div class="o-grid">
-                                                <div class="o-grid__col-md-5">
-                                                    <div class="c-work__timeframe">
-                                                        2003 – 2008
-                                                    </div>
-                                                    <h3 class="c-work__heading">
-                                                        Ninsei University
-                                                    </h3>
-                                                    <h4 class="c-work__title">
-                                                        Bachelor of Computer Science
-                                                    </h4>
-                                                    <div class="c-work__location">
-                                                        Tokyo, Japan
-                                                    </div>
-                                                </div>
-                                                <div class="o-grid__col-md-7">
-                                                    <p>
-                                                        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aaliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="c-timeline__item">
-                                        <div class="c-timeline__point  t-timeline__point  t-primary-bg"></div>
-                                        <div class="o-content">
-                                            <div class="o-grid">
-                                                <div class="o-grid__col-md-5">
-                                                    <div class="c-work__timeframe">
-                                                        2000 – 2003
-                                                    </div>
-                                                    <h3 class="c-work__heading">
-                                                        Academy of Fine Arts
-                                                    </h3>
-                                                    <h4 class="c-work__title">
-                                                        Master of Arts
-                                                    </h4>
-                                                    <div class="c-work__location">
-                                                        Berlin, Germany
-                                                    </div>
-                                                </div>
-                                                <div class="o-grid__col-md-7">
-                                                    <p>
-                                                        Fusce lacinia arcu et nulla. Nulla vitae mauris non felis mollis faucibus. Phasellus hendrerit. Pellentesque aaliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales.
-                                                    </p>
-                                                </div>
-                                            </div>
                                         </div>
                                     </div>
 
                                 </div>
                             </div>
-
                         </div>
-
-                    </div>
-                </div>
-
             </section>
             </>
             )

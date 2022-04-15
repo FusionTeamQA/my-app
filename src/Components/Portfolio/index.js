@@ -1,7 +1,6 @@
 import image1 from "../../assets/image/portfolio/1_thumb@2x.jpg"
 import image2 from "../../assets/image/portfolio/2_thumb@2x.jpg"
 import image3 from "../../assets/image/portfolio/3_thumb@2x.jpg"
-import image4 from "../../assets/image/portfolio/4_thumb@2x.jpg"
 import image5 from "../../assets/image/portfolio/5_thumb@2x.jpg"
 import image6 from "../../assets/image/portfolio/6_thumb@2x.jpg"
 
@@ -36,12 +35,10 @@ function Portfolio() {
                                         <img src={image1} alt="" class="dense-image dense-ready"></img>
                                         <div class="c-image-overlay__content">
                                             <h3>
-                                                Musée du Louvre
+                                                SitterTree
                                             </h3>
                                             <hr className="c-deco-line  t-primary-color-line"></hr>
-                                            <p>
-                                                Fusce lacinia arcu et nulla. Nulla vitae mauris non felis mollis faucibus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-                                            </p>
+                                            <p>iOS app - For hiring sitter and creating work families</p>
                                         </div>
                                     </a>
                                 </div>
@@ -51,12 +48,10 @@ function Portfolio() {
                                     <img src={image2} alt="" class="dense-image dense-ready"></img>
                                         <div class="c-image-overlay__content">
                                             <h3>
-                                                Tunnel Effect
+                                                Village
                                             </h3>
                                             <hr className="c-deco-line  t-primary-color-line"></hr>
-                                            <p>
-                                                Fusce lacinia arcu et nulla. Nulla vitae mauris non felis mollis faucibus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-                                            </p>
+                                            <p>A social network for residents of German villages that allows you to share news / create interest groups / offer products and services / post administrative information for residents</p>
                                         </div>
                                     </a>
                                 </div>
@@ -66,52 +61,19 @@ function Portfolio() {
                                     <img src={image3} alt="" class="dense-image dense-ready"></img>
                                         <div class="c-image-overlay__content">
                                             <h3>
-                                                New York, New York
+                                                MyContainer
                                             </h3>
                                             <hr className="c-deco-line  t-primary-color-line"></hr>
-                                            <p>
-                                                Fusce lacinia arcu et nulla. Nulla vitae mauris non felis mollis faucibus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-                                            </p>
+                                            <p>A mobile application designed to work with crypto currency </p>
                                         </div>
                                     </a>
                                 </div>
-
-                                <div class="o-grid__col-sm-6">
-                                    <a class="c-image-overlay  t-image-overlay  js-lightbox"  data-lightbox-hidpi="" title="" data-lightbox-gallery="portfolio" data-title="Sky High">
-                                    <img src={image4} alt="" class="dense-image dense-ready"></img>
-                                        <div class="c-image-overlay__content">
-                                            <h3>
-                                                Sky High
-                                            </h3>
-                                            <hr className="c-deco-line  t-primary-color-line"></hr>
-                                            <p>
-                                                Fusce lacinia arcu et nulla. Nulla vitae mauris non felis mollis faucibus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-                                            </p>
-                                        </div>
-                                    </a>
-                                </div>
-
-                                <div class="o-grid__col-sm-6">
-                                    <a class="c-image-overlay  t-image-overlay  js-lightbox"  data-lightbox-hidpi="" title="" data-lightbox-gallery="portfolio" data-title="The Eiffel Tower">
-                                    <img src={image5} alt="" class="dense-image dense-ready"></img>
-                                        <div class="c-image-overlay__content">
-                                            <h3>
-                                                The Eiffel Tower
-                                            </h3>
-                                            <hr className="c-deco-line  t-primary-color-line"></hr>
-                                            <p>
-                                                Fusce lacinia arcu et nulla. Nulla vitae mauris non felis mollis faucibus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-                                            </p>
-                                        </div>
-                                    </a>
-                                </div>
-
                                 <div class="o-grid__col-sm-6">
                                     <a class="c-image-overlay  t-image-overlay  js-lightbox"  data-lightbox-hidpi="" title="" data-lightbox-gallery="portfolio" data-title="Reaching the Clouds">
                                     <img src={image6} alt="" class="dense-image dense-ready"></img>
                                         <div class="c-image-overlay__content">
                                             <h3>
-                                                Reaching the Clouds
+                                                Brinc
                                             </h3>
                                             <hr className="c-deco-line  t-primary-color-line"></hr>
                                             <p>

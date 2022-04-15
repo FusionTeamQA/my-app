@@ -33,10 +33,10 @@ function App() {
       <Skills/>
       <EXPERIENCE/>
       <EDUCATION/>
-      <PROFILES/>
-      <AWARDS/>
+      {/* <PROFILES/> */}
+      {/* <AWARDS/> */}
       <Portfolio/>
-      <CLIENTS/>
+      {/* <CLIENTS/> */}
       <FOOTER/>
 
       </div>
