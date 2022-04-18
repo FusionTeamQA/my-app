@@ -1,7 +1,7 @@
 import React from "react";
 
-import avatar from "../../Image/logo.jpg";
-import vk from "../../Image/vk.jpg"
+import avatar from "../../Image/logo.jpg"
+import vk from "../../Image/vk4.jpeg"
 import git from "../../Image/imagesss.png"
 import logo from "../../Image/logofusion.png"
 import SwitchSelector from "react-switch-selector";
@@ -61,14 +61,14 @@ function Header() {
                                         <ul class="c-header__social-buttons  c-social-buttons">
                                             <li class="a-header in-view" data-sr-id="6">
                                                 <a href="https://vk.com/ugraswim" target="_blank" class="c-social-button  t-social-button">
-                                                <img src={vk} alt="">
+                                                <img className="image-logo" src={vk} alt="">
                                                     </img>
                                                     <i class="fab  fa-lg  fa-facebook-f in-view"></i>
                                                 </a>
                                             </li>
                                             <li class="a-header in-view" data-sr-id="7">
                                                 <a href="https://github.com" target="_blank" class="c-social-button  t-social-button">
-                                                <img src={git} alt="">
+                                                <img className="image-logo" src={git} alt="">
                                                     </img>
                                                     <i class="fab  fa-lg  fa-dribbble in-view"></i>
                                                 </a>

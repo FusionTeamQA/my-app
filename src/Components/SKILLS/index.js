@@ -1,9 +1,9 @@
 function Skills() {
     return (
         <>
-<section class="o-section  t-section  ">
+<section class="o-section  t-section">
 
-                <div class="o-section__header-bg  t-section__header"></div>
+                <div class="o-section__header-bg  t-section__header "></div>
                 <div class="o-section__content-bg  t-section__content"></div>
 
                 <div class="o-container">
@@ -20,7 +20,7 @@ function Skills() {
                             </div>
                         </header>
 
-                        <div class="o-section__content  t-section__content  ">
+                        <div class="o-section__content  t-section__content t-skills">
                             
                             <div class="o-grid">
 
