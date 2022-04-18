@@ -42,9 +42,16 @@ function EXPERIENCE() {
                                 </div>
                             </div>
                             <div class="o-grid__col-md-7">
-                                <p>
-                                    nothing.
-                                                                    </p>
+                                <p>Development of test scenarios</p>
+                                <p>Error detection</p>
+                                <p>Description of shortcomings and errors, setting tasks and monitoring of implementation</p>
+                                <p>Checking completed tasks</p>
+                                <p>Optimization of development and testing processes</p>
+                                <p>Maintaining documentation</p>
+                                <p>Java/Cucumber Testing Automation</p>
+                                <p>CodeceptJS Testing Automation</p>
+                                <p>Install Jenkins project</p>
+                                <p>Creating Allure Reports</p>
                             </div>
                         </div>
                     </div>
