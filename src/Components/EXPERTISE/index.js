@@ -2,12 +2,13 @@ function Experise() {
     return (
         <>
     <div class="o-section__container">
-
+    <a name="hard"></a>
 <header class="o-section__header  t-section__header">
     <div class="o-content">
         <h2 class="o-section__heading">
             Hard skills
         </h2>
+
         <div class="o-content__body  o-section__description">
         </div>
     </div>

@@ -1,6 +1,5 @@
 import './App.css';
 import './sidebars.css';
-
 import Header from './Components/Header';
 import Intro from './Components/Intro';
 import Experise from './Components/EXPERTISE';
@@ -12,6 +11,8 @@ import AWARDS from './Components/AWARDS';
 import Portfolio from './Components/Portfolio';
 import CLIENTS from './Components/CLIENTS';
 import FOOTER from './Components/FOOTER';
+import Sidebar from './Components/Sidebar';
+
 
 
 
@@ -19,7 +20,7 @@ function App() {
   return (
     <div className="App">
         <Sidebar/>
-      <button className='change_botton' onClick={() => {
+        <button className='change_botton' onClick={() => {
         const a = localStorage.getItem('theme');
         if (a === 'dark') {
           localStorage.setItem('theme', 'light')
@@ -30,6 +31,7 @@ function App() {
       }}>
         Change style
       </button>
+      
       <Header/>
       <Intro/>
       <Experise/>

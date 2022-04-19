@@ -10,6 +10,7 @@ import SwitchSelector from "react-switch-selector";
 function Header() {
     return (
         <>
+                        <a name="welcome"></a>
                 <section class="o-section o-section--header  t-section  t-section--header">
                 <div class="c-header">
 
@@ -39,7 +40,7 @@ function Header() {
                                             <div class="c-brand">
                                                 <h1 class="c-brand__title  t-title">
                                                     <span class="c-brand__sizer">
-                                                        <span class="a-header  c-brand__first-word  t-title__first-word in-view" data-sr-id="3" >
+                                                        <span class="a-header  c-brand__first-word  t-title__first-word in-view" data-sr-id="3">
                                                             VLADISLAV
                                                         </span>
                                                         <span class="a-header  c-brand__second-word  t-title__second-word in-view" data-sr-id="4" >

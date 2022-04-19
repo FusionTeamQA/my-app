@@ -2,7 +2,7 @@ function Skills() {
     return (
         <>
 <section class="o-section  t-section">
-
+<a name="skills"></a>
                 <div class="o-section__header-bg  t-section__header "></div>
                 <div class="o-section__content-bg  t-section__content"></div>
 
