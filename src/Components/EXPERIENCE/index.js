@@ -14,9 +14,6 @@ function EXPERIENCE() {
                 <h2 class="o-section__heading">
                     Experience
                 </h2>
-                <div class="o-content__body  o-section__description">
-                    Yes. I've been around.
-                </div>
             </div>
         </header>
 

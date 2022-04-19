@@ -14,9 +14,6 @@ function Skills() {
                                 <h2 class="o-section__heading">
                                     Skills
                                 </h2>
-                                <div class="o-content__body  o-section__description">
-                                <p>Knowledge and understanding</p>
-                                </div>
                             </div>
                         </header>
 

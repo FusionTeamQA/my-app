@@ -14,9 +14,6 @@ function EDUCATION() {
                                 <h2 class="o-section__heading">
                                     Education
                                 </h2>
-                                <div class="o-content__body  o-section__description">
-                                    Lazy isn't in my vocabulary.
-                                </div>
                             </div>
                         </header>
 
