@@ -1,9 +1,7 @@
-
-
 function Sidebar() {
     return (
         <>
-  <div class="pt-table desktop-768">
+  <div class="pt-table desktop-768 padding-home">
     <div class="pt-tablecell page-home relative">
                     <div class="overlay"></div>
                     <div class="container">
@@ -29,7 +27,7 @@ function Sidebar() {
                                                 </span>
                                                 <span class="title" >Home</span>
                                             </span>
-                                            <svg viewBox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#1e2530"></path></svg>
+                                            <svg viewBox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#935ba9"></path></svg>
                                         </a>
                                     </div>
                                     <div class="hexagon-item">
@@ -50,7 +48,7 @@ function Sidebar() {
                                                 </span>
                                                 <span class="title">Intro</span>
                                             </span>
-                                            <svg viewBox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#1e2530"></path></svg>
+                                            <svg viewBox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#935ba9"></path></svg>
                                         </a>
                                     </div>
                                     <div class="hexagon-item">
@@ -71,7 +69,7 @@ function Sidebar() {
                                                 </span>
                                                 <span class="title">Hard skills</span>
                                             </span>
-                                            <svg viewBox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#1e2530"></path></svg>
+                                            <svg viewBox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#935ba9"></path></svg>
                                         </a>    
                                     </div>
                                     <div class="hexagon-item">
@@ -92,7 +90,7 @@ function Sidebar() {
                                                 </span>
                                                 <span class="title">Skills</span>
                                             </span>
-                                            <svg viewBox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#1e2530"></path></svg>
+                                            <svg viewBox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#935ba9"></path></svg>
                                         </a>
                                     </div>
                                     <div class="hexagon-item">
@@ -113,7 +111,7 @@ function Sidebar() {
                                                 </span>
                                                 <span class="title">Experience</span>
                                             </span>
-                                            <svg viewBox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#1e2530"></path></svg>
+                                            <svg viewBox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#935ba9"></path></svg>
                                         </a>
                                     </div>
                                     <div class="hexagon-item">
@@ -134,7 +132,7 @@ function Sidebar() {
                                                 </span>
                                                 <span class="title">Education</span>
                                             </span>
-                                            <svg viewBox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#1e2530"></path></svg>
+                                            <svg viewBox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#935ba9"></path></svg>
                                         </a>
                                     </div>
                                     <div class="hexagon-item">
@@ -155,7 +153,7 @@ function Sidebar() {
                                                 </span>
                                                 <span class="title">Portfolio</span>
                                             </span>
-                                            <svg viewBox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#1e2530"></path></svg>
+                                            <svg viewBox="0 0 173.20508075688772 200" height="200" width="174" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z" fill="#935ba9"></path></svg>
                                         </a>
                                         
                                     </div>

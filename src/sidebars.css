@@ -116,7 +116,7 @@ body {
   .pt-tablecell {
     display: table-cell;
     vertical-align: middle; 
-    background-image: url(https://images.unsplash.com/photo-1486870591958-9b9d0d1dda99?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80);
+    background-image: url(https://sun9-11.userapi.com/impf/DNfHd7IWw_b9rGkgqPbM8dklLfktbbPRV0QZQw/x-iThh4t1Xw.jpg?size=1920x1280&quality=96&sign=830f861b914a7480213ef0ee4cd3f2f7&type=album);
     background-position: center;
     background-size: cover;
 }
@@ -180,6 +180,11 @@ body {
     display: flex; }
     .preloader.active.hidden {
       display: none; }
+
+
+  .padding-home {
+    align-items: center;
+  }
   
   .loading-mask {
     background-color: #FA6862;
@@ -318,6 +323,7 @@ body {
     vertical-align: middle; }
     .page-home .overlay {
       background-color: rgba(14, 17, 24, 0.97);
+      opacity: 0.9;
   }
   
   /* End of container */
