@@ -102,7 +102,7 @@ function Skills() {
                                                 </div>
                                             </div>
                                             <div class="o-media__body">
-                                                <h3>Jenkins</h3>
+                                                <h3>Monosnap</h3>
                                             </div>
                                         </div>
                                         <div class="c-progress-bar  o-content__body  t-border-color-bg  u-mt-text">
@@ -120,7 +120,7 @@ function Skills() {
                                                 </div>
                                             </div>
                                             <div class="o-media__body">
-                                                <h3>Cucumber</h3>
+                                                <h3>Notion</h3>
                                             </div>
                                         </div>
                                         <div class="c-progress-bar  o-content__body  t-border-color-bg  u-mt-text">
@@ -137,7 +137,7 @@ function Skills() {
                                                 </div>
                                             </div>
                                             <div class="o-media__body">
-                                                <h3>Selenium</h3>
+                                                <h3>Postman</h3>
                                             </div>
                                         </div>
                                         <div class="c-progress-bar  o-content__body  t-border-color-bg  u-mt-text">
@@ -155,7 +155,7 @@ function Skills() {
                                                 </div>
                                             </div>
                                             <div class="o-media__body">
-                                                <h3>Java</h3>
+                                                <h3>Trello</h3>
                                             </div>
                                         </div>
                                         <div class="c-progress-bar  o-content__body  t-border-color-bg  u-mt-text">

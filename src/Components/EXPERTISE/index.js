@@ -26,7 +26,7 @@ function Experise() {
                     </div>
                 </div>
                 <div class="o-media__body  o-content__body">
-                    <h3>Basic knowledge of testing</h3>
+                    <h3>Testing theory</h3>
                     {/* <p> */}
                     {/* Testing is executing a system in order to identify any gaps, errors, or missing requirements in contrary to the actual requirements.                    </p> */}
                 </div>
@@ -41,7 +41,7 @@ function Experise() {
                     </div>
                 </div>
                 <div class="o-media__body  o-content__body">
-                    <h3>Knowledge of HTML, CSS, SQL, JavaScript</h3>
+                    <h3>HTML, CSS, SQL, JavaScript</h3>
                     {/* <p>
                     </p> */}
                 </div>
@@ -56,7 +56,7 @@ function Experise() {
                     </div>
                 </div>
                 <div class="o-media__body  o-content__body">
-                    <h3>Technical documentation analysis </h3>
+                    <h3>Analysis of technical documentation</h3>
                     {/* <p>
                         Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. Vivamus vestibulum nulla cras ornare tristique elit nec ante.
                     </p> */}
@@ -72,7 +72,7 @@ function Experise() {
                     </div>
                 </div>
                 <div class="o-media__body  o-content__body">
-                    <h3>Generating test documentation</h3>
+                    <h3>Computer networks</h3>
                     {/* <p>
                         Morbi in sem quis dui placerat ornare. Ut aliquam sollicitudin leo. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras ante. Vivamus vestibulum nulla nec ante.
                     </p> */}
@@ -104,7 +104,7 @@ function Experise() {
                     </div>
                 </div>
                 <div class="o-media__body  o-content__body">
-                    <h3>Experience working with agile SCRUM development methodologies</h3>
+                    <h3>Git</h3>
                     {/* <p>
                         Cras ornare tristique elit lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id.
                     </p> */}
